@@ -1,0 +1,57 @@
+export const data = [
+    {
+        question: "Which of the following acts as the input of a class-based component?",
+        option1: "Class",
+        option2: "Factory",
+        option3: "Render",
+        option4: "Props",
+        ans: 4,
+    },
+    {
+        question: "A class is a type of function, but instead of using the keyword function to initiate it, which keyword do we use?",
+        option1: "Constructor",
+        option2: "Class",
+        option3: "Object",
+        option4: "DataObject",
+        ans: 2,
+    },
+    {
+        question: "Which of the following keyword is used to create a class inheritance?",
+        option1: "Create",
+        option2: "Inherits",
+        option3: "Extends",
+        option4: "This",
+        ans: 3,
+    },
+    {
+        question: "What is the default port where webpack-server runs?",
+        option1: "3000",
+        option2: "8080",
+        option3: "6060",
+        option4: "3030",
+        ans: 2,
+    },
+    {
+        question: "How many numbers of elements a valid react component can return?",
+        option1: "1",
+        option2: "2",
+        option3: "4",
+        option4: "5",
+        ans: 1,
+    },{
+        question: "What is the declarative way to render a dynamic list of components based on values in an array?",
+        option1: "Using the reduce array method",
+        option2: "Using the <Each /> component",
+        option3: "Using the Array.map() method",
+        option4: "With a for/while loop",
+        ans: 3,
+    },
+    {
+        question: "How many ways of defining your variables in ES6?",
+        option1: "1",
+        option2: "3",
+        option3: "4",
+        option4: "5",
+        ans: 2,
+    }
+]
